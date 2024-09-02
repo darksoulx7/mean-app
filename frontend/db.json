@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "be10",
+      "department": "HR",
+      "name": "Shahzad",
+      "mobile": "032344540000",
+      "email": "hms9009@gmail.com",
+      "gender": "male",
+      "doj": "2024-01-01",
+      "city": "Multan",
+      "salary": "252000",
+      "address": "Plot no. 111",
+      "status": true
+    }
+  ]
+}
